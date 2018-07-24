@@ -1,0 +1,48 @@
+[submodule "roles/ansible-role-hdfs-namenode"]
+	path = roles/ansible-role-hdfs-namenode
+	url = https://github.com/diboanches/ansible-role-hdfs-namenode
+[submodule "roles/ansible-role-hadoop"]
+	path = roles/ansible-role-hadoop
+	url = https://github.com/diboanches/ansible-role-hadoop
+[submodule "roles/ansible-role-java-jdk-centos"]
+	path = roles/ansible-role-java-jdk-centos
+	url = https://github.com/diboanches/ansible-role-java-jdk-centos
+[submodule "roles/ansible-role-hostname-to-hosts"]
+	path = roles/ansible-role-hostname-to-hosts
+	url = https://github.com/diboanches/ansible-role-hostname-to-hosts
+[submodule "roles/ansible-role-postgresql10-centos"]
+	path = roles/ansible-role-postgresql10-centos
+	url = https://github.com/diboanches/ansible-role-postgresql10-centos
+[submodule "roles/ansible-role-apache2-simple-proxy"]
+	path = roles/ansible-role-apache2-simple-proxy
+	url = https://github.com/diboanches/ansible-role-apache2-simple-proxy
+[submodule "roles/ansible-role-wildfly"]
+	path = roles/ansible-role-wildfly
+	url = https://github.com/diboanches/ansible-role-wildfly
+[submodule "roles/ansible-role-postgresql-database-users"]
+	path = roles/ansible-role-postgresql-database-users
+	url = https://github.com/diboanches/ansible-role-postgresql-database-users
+[submodule "roles/ansible-role-postgresql10-ubuntu"]
+	path = roles/ansible-role-postgresql10-ubuntu
+	url = https://github.com/diboanches/ansible-role-postgresql10-ubuntu
+[submodule "roles/ansible-role-java8-ubuntu"]
+	path = roles/ansible-role-java8-ubuntu
+	url = https://github.com/diboanches/ansible-role-java8-ubuntu
+[submodule "roles/ansible-role-nginx"]
+	path = roles/ansible-role-nginx
+	url = https://github.com/diboanches/ansible-role-nginx
+[submodule "roles/ansible-role-ansible"]
+	path = roles/ansible-role-ansible
+	url = https://github.com/diboanches/ansible-role-ansible
+[submodule "roles/ansible-role-glusterfs-client"]
+	path = roles/ansible-role-glusterfs-client
+	url = https://github.com/diboanches/ansible-role-glusterfs-client
+[submodule "roles/ansible-role-glusterfs-server"]
+	path = roles/ansible-role-glusterfs-server
+	url = https://github.com/diboanches/ansible-role-glusterfs-server
+[submodule "roles/ansible-role-secure-ssh"]
+	path = roles/ansible-role-secure-ssh
+	url = https://github.com/diboanches/ansible-role-secure-ssh
+[submodule "roles/ansible-role-user-management"]
+	path = roles/ansible-role-user-management
+	url = https://github.com/diboanches/ansible-role-user-management
