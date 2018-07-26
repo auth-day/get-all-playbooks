@@ -46,3 +46,6 @@
 [submodule "roles/ansible-role-user-management"]
 	path = roles/ansible-role-user-management
 	url = https://github.com/diboanches/ansible-role-user-management
+[submodule "roles/ansible-role-hdfs-journalnode"]
+	path = roles/ansible-role-hdfs-journalnode
+	url = https://github.com/diboanches/ansible-role-hdfs-journalnode
