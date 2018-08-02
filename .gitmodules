@@ -64,3 +64,6 @@
 [submodule "role/ansible-role-zookeeper"]
 	path = role/ansible-role-zookeeper
 	url = https://github.com/diboanches/ansible-role-zookeeper
+[submodule "roles/hdfs-zkfc"]
+	path = roles/hdfs-zkfc
+	url = https://github.com/diboanches/ansible-role-hdfs-zkfc
