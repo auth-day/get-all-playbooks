@@ -49,3 +49,15 @@
 [submodule "roles/ansible-role-hdfs-journalnode"]
 	path = roles/ansible-role-hdfs-journalnode
 	url = https://github.com/diboanches/ansible-role-hdfs-journalnode
+[submodule "roles/ansible-role-hdfs-datanode"]
+	path = roles/ansible-role-hdfs-datanode
+	url = https://github.com/diboanches/ansible-role-hdfs-datanode
+[submodule "roles/ansible-role-maven-bin"]
+	path = roles/ansible-role-maven-bin
+	url = https://github.com/diboanches/ansible-role-maven-bin
+[submodule "roles/ansible-role-jenkins-docker"]
+	path = roles/ansible-role-jenkins-docker
+	url = https://github.com/diboanches/ansible-role-jenkins-docker
+[submodule "roles/ansible-role-hadoop-jobhistoryserver"]
+	path = roles/ansible-role-hadoop-jobhistoryserver
+	url = https://github.com/diboanches/ansible-role-hadoop-jobhistoryserver
