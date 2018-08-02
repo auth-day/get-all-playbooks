@@ -61,3 +61,6 @@
 [submodule "roles/ansible-role-hadoop-jobhistoryserver"]
 	path = roles/ansible-role-hadoop-jobhistoryserver
 	url = https://github.com/diboanches/ansible-role-hadoop-jobhistoryserver
+[submodule "role/ansible-role-zookeeper"]
+	path = role/ansible-role-zookeeper
+	url = https://github.com/diboanches/ansible-role-zookeeper
